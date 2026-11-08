@@ -1,4 +1,4 @@
-// Browser adapter. The original Huffman.cpp is included unchanged.
+// Browser adapter
 #include <cstdlib>
 #define main original_file_based_main
 #include "Huffman.cpp"
